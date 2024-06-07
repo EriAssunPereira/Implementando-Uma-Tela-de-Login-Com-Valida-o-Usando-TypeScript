@@ -1,6 +1,6 @@
-# Implementando-Uma-Tela-de-Login-Com-Valida-o-Usando-TypeScript
+# Implementando-Uma-Tela-de-Login-Com-Validação-Usando-TypeScript
 
-Implementando uma tela de login com validação usando TypeScript no React. Aqui está um exemplo básico de como podemos começar:
+Na implementação de uma tela de login com validação usando TypeScript no React. Aqui está um exemplo básico de como podemos começar:
 
 ```typescript
 import React, { useState } from 'react';
